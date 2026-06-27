@@ -1,58 +1,55 @@
-# Examples of Technical Documentation
+# Portfolio Submission: Enterprise Documentation Series
 
-### Sample 1: Standard Operating Procedure (SOP): Enterprise Zoom Audio Troubleshooting Guide
-
-#### Overview
-Troubleshooting audio issues on Zoom.
-
-#### Use example
-A user joins a Zoom meeting, but no one can hear the user, and the user cannot hear anyone speaking.
+The following entries demonstrate my ability to structure technical documentation using a native Docs-as-Code Markdown layout. Both entries are sourced directly from my enterprise documentation history.
 
 ---
 
-### 1) Potential Fixes - Process
-After each fix attempt, check the audio before proceeding to next troubleshooting step.
+### DOCUMENT A: POTENTIAL FIXES - RAPID PROCESS WORKFLOW
+**Target Audience:** General Users / Front-Line Support 
+**Objective:** Initial diagnostic steps to check and resolve active meeting stream drops.
 
-1. **Check mute button status** and unmute if necessary.
-2. **Check the selected audio source** matches the source being used.
-3. **Test the connection hardware.**
-4. **Check the system-wide volume settings.**
+#### Standard Operating Procedure (SOP): Enterprise Zoom Audio Troubleshooting Guide
+**Overview:** Troubleshooting audio issues on Zoom.  
+**Use example:** A user joins a Zoom meeting, but no one can hear the user, and the user cannot hear anyone speaking.
+
+#### 1) Potential Fixes - Process
+After each fix attempt, check the audio before proceeding to next troubleshooting step.
+1. Check mute button status and unmute if necessary.
+2. Check the selected audio source matches the source being used.
+3. Test the connection hardware.
+4. Check the system-wide volume settings.
 5. If none of the above fixes work, please reach out to internal IT support via email to `it-support@company.com`.
 
----
-
-### 1.1) Check mute button status
+#### 1.1) Check mute button status
 1. Look at the microphone icon in the bottom left corner of the Zoom Window.
 2. If a red line is through the mic icon, it is muted.
    * **a)** Click the **icon** once to unmute.
 
-*(Note: In the live document, Figure 1 illustrates the muted microphone icon inside the Zoom toolbar.)*
+*(Note: Illustrated by Figure 1: The muted microphone icon inside the Zoom toolbar.)*
 
----
-
-### 1.2) Check the selected audio source
-1. Click the small **arrow** next to the microphone icon in the bottom left corner of the Zoom Window.
+#### 1.2) Check the selected audio source
+1. Click the small **arrow** next to the microphone icon in bottom left corner of the Zoom Window.
 2. In the menu that pops up, review the list under **Select a Microphone** and **Select a Speaker** headers.
 3. Ensure the checked items match the headset or computer speakers that are being used (instead of another connected device).
 4. If necessary, select the **correct audio device** via the drop-down list to change it.
 
-*(Note: In the live document, Figure 2 illustrates the audio device selection dropdown menu in Zoom.)*
+*(Note: Illustrated by Figure 2: The audio device selection dropdown menu in Zoom.)*
 
 ---
 
-### 1.3) Test connection hardware
+### DOCUMENT B: INFRASTRUCTURE & OPERATING SYSTEM SOP
+**Target Audience:** Tier 2 Tech Support / IT Systems Specialists
+**Objective:** Hardware layer cycling and core operating system configuration verification.
+
+#### 1.3) Test connection hardware
 If audio settings appear correct:
-1. Unplug the external headset/microphone from the computer.
+1. Unplug the external headset/microphone from computer.
 2. Wait five seconds and plug it back in.
 
----
-
-### 1.4) Check system-wide volume settings
+#### 1.4) Check system-wide volume settings
 1. Open the computer’s main **Settings** panel:
-   * **a)** In the search box on your taskbar, type **“Settings”** and press Enter or select the Settings option.
-   * **b)** In the Settings window, type **“Sound”** in the search bar and navigate to the **System > Sound** settings page.
-2. Locate the **Volume** row and ensure the master volume slider is not turned down.
-
-*(Note: In the live document, Figure 3 illustrates searching for the settings panel in the Windows taskbar, and Figure 4 illustrates locating the Volume master slider in the Windows Sound settings screen.)**
+   * **a)** In the search box on your taskbar, type “Settings” and press Enter or select the **Settings** option. *(Note: Illustrated by Figure 3: Searching for the settings panel in the Windows taskbar).*
+   * **b)** In the Settings window, type “Sound” in the search bar and navigate to the **System > Sound** settings page.
+2. Locate the **Volume** row and ensure the master volume slider is not turned down. *(Note: Illustrated by Figure 4: Locating the Volume master slider in Windows Sound settings screen).*
 
 **Category:** Zoom

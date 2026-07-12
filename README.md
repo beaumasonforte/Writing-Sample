@@ -25,7 +25,8 @@ After each fix attempt, check the audio before proceeding to next troubleshootin
 2. If a red line is through the mic icon, it is muted.
    * **a)** Click the **icon** once to unmute.
 
-![Zoom Muted Microphone Icon](Writing-Sample-Figure-1.png)
+<img src="Writing-Sample-Figure-1.png" width="200" alt="The muted microphone icon inside the Zoom toolbar.">
+
 *(Note: Illustrated by Figure 1: The muted microphone icon inside the Zoom toolbar.)*
 
 #### 1.2) Check the selected audio source
@@ -34,8 +35,10 @@ After each fix attempt, check the audio before proceeding to next troubleshootin
 3. Ensure the checked items match the headset or computer speakers that are being used (instead of another connected device).
 4. If necessary, select the **correct audio device** via the drop-down list to change it.
 
-![The audio device selection dropdown menu in Zoom.](Writing-Sample-Figure-2.png)
+<img src="Writing-Sample-Figure-2.png" width="400" alt="The audio device selection dropdown menu in Zoom.">
+
 *(Note: Illustrated by Figure 2: The audio device selection dropdown menu in Zoom.)*
+
 ---
 
 ### DOCUMENT B: INFRASTRUCTURE & OPERATING SYSTEM SOP
@@ -49,14 +52,22 @@ If audio settings appear correct:
 
 #### 1.4) Check system-wide volume settings
 1. Open the computer’s main **Settings** panel:
-   * **a)** In the search box on your taskbar, type “Settings” and press Enter or select the **Settings** option. *(Note: Illustrated by Figure 3: Searching for the settings panel in the Windows taskbar).*
+   * **a)** In the search box on your taskbar, type “Settings” and press Enter or select the **Settings** option. 
    * **b)** In the Settings window, type “Sound” in the search bar and navigate to the **System > Sound** settings page.
-2. Locate the **Volume** row and ensure the master volume slider is not turned down. *(Note: Illustrated by Figure 4: Locating the Volume master slider in Windows Sound settings screen).*
+2. Locate the **Volume** row and ensure the master volume slider is not turned down. 
 
-![Taskbar Search Window](Writing-Sample-Figure-3.png)
-![Volume master slider in Windows Sound Settings screen](Writing-Sample-Figure-4.png)
+<br>
+<br>
+<img src="Writing-Sample-Figure-3.png" width="300" alt="Searching for the settings panel in the Windows taskbar.">
 
 *(Note: Illustrated by Figure 3: The Windows taskbar search box, entering "Settings")*
+
+<br>
+<br>
+
+<img src="Writing-Sample-Figure-4.png" width="300" alt="Locating the Volume master slider in the Windows Sound settings screen.">
+
 *(Note: Illustrated by Figure 4: The Volume master slider in the Windows Sound Settings screen.)*
 
+<br><br>
 **Category:** Zoom

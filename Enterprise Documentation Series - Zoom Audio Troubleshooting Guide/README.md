@@ -13,7 +13,7 @@ The following entries demonstrate my ability to structure technical documentatio
 **Use example:** A user joins a Zoom meeting, but no one can hear the user, and the user cannot hear anyone speaking.
 
 #### 1) Potential Fixes - Process
-After each fix attempt, check the audio before proceeding to next troubleshooting step.
+After each fix attempt, check the audio before proceeding to the next troubleshooting step.
 1. Check mute button status and unmute if necessary.
 2. Check the selected audio source matches the source being used.
 3. Test the connection hardware.
@@ -25,7 +25,7 @@ After each fix attempt, check the audio before proceeding to next troubleshootin
 2. If a red line is through the mic icon, it is muted.
    * **a)** Click the **icon** once to unmute.
 
-<img src="Writing-Sample-Figure-1.png" width="200" alt="The muted microphone icon inside the Zoom toolbar.">
+<img src="Writing-Sample-Figure-1.png" width="100" alt="The muted microphone icon inside the Zoom toolbar.">
 
 *(Note: Illustrated by Figure 1: The muted microphone icon inside the Zoom toolbar.)*
 

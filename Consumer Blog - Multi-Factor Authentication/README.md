@@ -1,5 +1,7 @@
 # Got 3 seconds? Trade it to protect yourself from account hackers 99% of the time.
 
+<img src="Consumer-Blog-MFA_Visual.jpg" width="300" alt="A stock image of a Microsoft Authenticator sign-in request on a phone.">
+
 "Are you trying to log in from another device located in ACCRA, GHANA?" 
 
 You stare at your phone. You are on vacation in Florida. 

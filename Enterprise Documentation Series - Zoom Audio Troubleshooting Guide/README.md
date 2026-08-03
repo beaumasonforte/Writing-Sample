@@ -3,10 +3,21 @@
 The following entries demonstrate my ability to structure technical documentation using a native Docs-as-Code Markdown layout. Both entries are functional documentation mockups designed to showcase structured information architecture and clear, step-by-step technical formatting.
 
 ---
-
 ### DOCUMENT A: POTENTIAL FIXES - RAPID PROCESS WORKFLOW
-**Target Audience:** General Users / Front-Line Support 
-**Objective:** Initial diagnostic steps to check and resolve active meeting stream drops.
+
+### Document Information
+* **Target Audience:** General Users / Front-Line Support
+* **Estimated Time:** 3–5 minutes
+* **Difficulty:** Beginner
+* **In Scope:** Zoom application audio settings, basic operating system sound verification.
+* **Out of Scope:** Physical hardware repair, network bandwidth diagnostics, advanced driver reinstallation.
+
+
+#### Prerequisites
+Before starting this process, ensure:
+1. Active Zoom desktop client is installed and running.
+2. An audio hardware device (built-in speakers/microphone or external headset) is connected to your computer.
+3. You have basic permissions to adjust system volume on your operating system.
 
 #### Standard Operating Procedure (SOP): Enterprise Zoom Audio Troubleshooting Guide
 **Overview:** Troubleshooting audio issues on Zoom.  
@@ -42,8 +53,13 @@ After each fix attempt, check the audio before proceeding to the next troublesho
 ---
 
 ### DOCUMENT B: INFRASTRUCTURE & OPERATING SYSTEM SOP
-**Target Audience:** Tier 2 Tech Support / IT Systems Specialists
-**Objective:** Hardware layer cycling and core operating system configuration verification.
+
+### Document Information
+* **Target Audience:** Tier 2 Tech Support / IT Systems Specialists
+* **Estimated Time:** 2–4 minutes
+* **Difficulty:** Intermediate
+* **In Scope:** Hardware layer cycling, operating system core sound configuration.
+* **Out of Scope:** Internal sound card replacement, system registry editing.
 
 #### 1.3) Test connection hardware
 If audio settings appear correct:

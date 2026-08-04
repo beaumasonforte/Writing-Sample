@@ -1,10 +1,10 @@
-# ✍️ Technical Writing & Creative Content Portfolio
+# Technical Writing & Creative Content Portfolio
 
 Welcome! This repository showcases my versatility as a writer. I specialize in translating complex engineering concepts, technical infrastructure data, SaaS systems, and multi-line hardware frameworks into polished, actionable materials. 
 
 Beyond strict documentation, I leverage my long-standing creative writing abilities to draft engaging corporate blog posts, high-impact social media content, and clear, human-centric internal and external communications that boost engagement.
 
-## 📁 Portfolio Contents
+## Portfolio Contents
 
 ### 1. [B2B Cybersecurity Blog — Multi-Factor Authentication (MFA)](./Consumer%20Blog%20-%20Multi-Factor%20Authentication/)
 * **Content Category:** External Blog Post & Consumer Education
@@ -18,7 +18,7 @@ Beyond strict documentation, I leverage my long-standing creative writing abilit
 
 ---
 
-## 🛠️ Core Capabilities & Writing Proficiencies
+## Core Capabilities & Writing Proficiencies
 * **Creative Content Creation:** B2B/B2C Blogging | Social Media Copywriting | Internal Announcements & Newsletters | Employee Engagement Posts
 * **Technical Writing:** Standard Operating Procedures (SOPs) | Step-by-Step Runbooks | Knowledge Base Administration | Info Architecture
 * **Tools & Platforms:** Confluence | MediaWiki | SharePoint | Jira | Git/GitHub Version Control | Markdown & HTML5

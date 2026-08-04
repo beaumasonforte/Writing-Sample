@@ -1,6 +1,6 @@
 # Technical Writing & Creative Content Portfolio
 
-Welcome! This repository showcases my versatility as a writer. I specialize in translating complex engineering concepts, technical infrastructure data, SaaS systems, and multi-line hardware frameworks into polished, actionable materials. 
+Hello world! This repository showcases my versatility as a writer. I specialize in translating complex engineering concepts, technical infrastructure data, SaaS systems, and multi-line hardware frameworks into polished, actionable materials. 
 
 Beyond strict documentation, I leverage my long-standing creative writing abilities to draft engaging corporate blog posts, high-impact social media content, and clear, human-centric internal and external communications that boost engagement.
 

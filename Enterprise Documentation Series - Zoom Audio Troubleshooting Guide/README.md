@@ -59,12 +59,12 @@ After each attempt, test your audio before proceeding to the next troubleshootin
 
 ### Phase 2: OS & Hardware Layer Diagnostics (Tier 2 / Advanced Support)
 
-#### 2.3 Test Connection Hardware
+#### 2.1 Test Connection Hardware
 If Zoom application settings appear correct:
 1. Unplug the external headset/microphone from the computer.
 2. Wait five seconds and plug it back in.
 
-#### 2.4 Check System-Wide Volume Settings
+#### 2.2 Check System-Wide Volume Settings
 1. Open the computer’s main **Settings** panel:
    * **a)** In the search box on your taskbar, type “Settings” and press Enter or select the **Settings** option. 
    * **b)** In the Settings window, type “Sound” in the search bar and navigate to the **System > Sound** settings page.

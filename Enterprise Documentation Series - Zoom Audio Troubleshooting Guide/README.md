@@ -24,7 +24,7 @@ Before starting this process, ensure:
 ### Overview
 This guide provides step-by-step diagnostic procedures to identify and resolve active meeting audio drops or mute issues in Zoom.
 
-### 1) Initial Diagnostic Workflow
+### Diagnostic Workflow
 After each attempt, test your audio before proceeding to the next troubleshooting step.
 1. Check mute button status.
 2. Verify selected audio source in Zoom.
@@ -59,12 +59,12 @@ After each attempt, test your audio before proceeding to the next troubleshootin
 
 ### Phase 2: OS & Hardware Layer Diagnostics (Tier 2 / Advanced Support)
 
-#### 1.3 Test Connection Hardware
+#### 2.3 Test Connection Hardware
 If Zoom application settings appear correct:
 1. Unplug the external headset/microphone from the computer.
 2. Wait five seconds and plug it back in.
 
-#### 1.4 Check System-Wide Volume Settings
+#### 2.4 Check System-Wide Volume Settings
 1. Open the computer’s main **Settings** panel:
    * **a)** In the search box on your taskbar, type “Settings” and press Enter or select the **Settings** option. 
    * **b)** In the Settings window, type “Sound” in the search bar and navigate to the **System > Sound** settings page.

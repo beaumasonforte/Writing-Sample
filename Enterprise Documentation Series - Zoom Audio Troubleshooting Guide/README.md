@@ -82,6 +82,3 @@ If Zoom application settings appear correct:
 <img src="Writing-Sample-Figure-4.png" width="300" alt="Locating the Volume master slider in the Windows Sound settings screen.">
 
 *(Figure 4: The Volume master slider in the Windows Sound Settings screen.)*
-
-<br><br>
-**Category:** Zoom Troubleshooting
